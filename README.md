@@ -2,7 +2,7 @@
 Python Script for Ingesting JFrog Xray alerts in Port
 
 ## Getting started
-In this example, you will ingest JFrog Xray alerts into Port. Doing this requires blueprints for JFrog Repositories and Artifacts. Repositories, Artifacts and Xray Alerts bluprints will be created to ingest the data from your Jfrog installation into Port. You will then use a Python script to make API calls to Jfrog's REST API to fetch the data from your account.
+In this example, you will ingest JFrog Xray alerts into Port. Doing this requires blueprints for JFrog Repositories and Artifacts. Repositories, Artifacts and Xray Alerts blueprints will be created to ingest the data from your Jfrog installation into Port. You will then use a Python script to make API calls to Jfrog's REST API to fetch the data from your account.
 
 
 ### Blueprints
